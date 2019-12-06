@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Bissecao</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="calc">Calcular</string>
+    <string name="resultado"></string>
+
+</resources>
